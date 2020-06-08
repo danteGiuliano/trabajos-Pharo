@@ -29,7 +29,7 @@ Guerrero >> getNivel [
 { #category : #Inicializador }
 Guerrero >> habiaUnGuerreroDeNombre:unNombre [.
 nombre :=unNombre.
-nivel :=1.
+nivel :=2.
 unArma := Arma crearArmaPara:'Guerrero'.
 danio:=10.
 
